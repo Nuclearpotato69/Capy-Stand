@@ -1,4 +1,5 @@
 # Capy stand commands
+#### if a command has a capital then make sure when you type it in that letter is capital
 ##### summon! -- summons the stand
 ##### ora! -- attacks infront of you
 ##### mimic! -- does what you do
@@ -19,27 +20,29 @@
 ##### noaura! -- stops aura
 ##### rejoin! -- rejoins the stand
 ##### reset! -- resets the stand
-##### dropCash! -- drops 10k once
+##### dropcash! -- drops 10k once
 ##### evolve! -- idk what this does
 ##### barrage! -- attacks infront of you and in a radius
 ##### unbarrage!
 ##### crew! -- joins the set crew
 ##### uncrew! -- leaves the crew
-##### sky! -- tps alt to the sky and back down
-##### jail!
+##### sky! -- when stand owner is knocked brings into the sky
+##### jail! -- when stand owner is knocked brings to admin jail
 ##### void! -- sends stand to the void
 ##### requiem! -- stand goes god mode
 ##### attack! -- attacks people around you
 ##### unattack! -- stops attack
+##### Song! -- plays the set song
+##### hide! -- stand buys a mask
 
 
-##### /e cmds:
+#### /e commands:
 ##### /e bring [player] -- brings a player it dont work tho
 ##### /e msg -- says the set msg
 ##### /e noface -- removes face
+##### /e stopaudio -- stops the song playing
 
-
-##### teleports:
+#### teleports:
 ##### to base!
 ##### to shop1!
 ##### to shop2!
@@ -50,3 +53,10 @@
 ##### to park!
 ##### to school!
 
+#### Other commands
+##### Golden Wind! -- plays an audio (boombox needed)
+##### Battle! -- play an audio (boombox needed)
+##### Mysterious! -- play an audio (boombox needed)
+##### Killer! -- play an audio (boombox needed)
+##### Golden Experience! -- play an audio (boombox needed)
+##### Dark Rebirth! -- play an audio (boombox needed)
