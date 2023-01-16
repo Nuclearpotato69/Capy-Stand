@@ -34,6 +34,8 @@
 ##### unattack! -- stops attack
 ##### Song! -- plays the set song
 ##### hide! -- stand buys a mask
+##### heal! -- if stand is under 50 hp it buys pizza and eats it
+##### unjail! -- if stand is jailed then it unjails itself
 ### 
 ## /e commands:
 ##### /e bring [player] -- brings a player (not working)
