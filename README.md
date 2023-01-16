@@ -35,14 +35,14 @@
 ##### Song! -- plays the set song
 ##### hide! -- stand buys a mask (not working rn)
 ##### grab! -- grabs stand owner when knocked down (works best with requiem!)
-
-#### /e commands:
+### 
+## /e commands:
 ##### /e bring [player] -- brings a player it dont work tho
 ##### /e msg -- says the set msg
 ##### /e noface -- removes face
 ##### /e stopaudio -- stops the song playing
-
-#### teleports:
+### 
+## teleports:
 ##### to base!
 ##### to shop1!
 ##### to shop2!
@@ -52,8 +52,8 @@
 ##### to ufo!
 ##### to park!
 ##### to school!
-
-#### Other commands
+### 
+## Other commands
 ##### Golden Wind! -- plays an audio (boombox needed)
 ##### Battle! -- play an audio (boombox needed)
 ##### Mysterious! -- play an audio (boombox needed)
