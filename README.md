@@ -38,9 +38,11 @@
 ##### unjail! -- if stand is jailed then it unjails itself
 ##### stomp! -- auto stomps anyone near you
 ##### unstomp! -- stops stomp!
+##### !bring [player] -- brings the selected player
+##### !attack [player] -- attackes the selcted player
 ### 
 ## /e commands:
-##### /e bring [player] -- brings a player (not working)
+
 ##### /e msg -- says the set msg
 ##### /e noface -- removes face
 ##### /e stopaudio -- stops the song playing
