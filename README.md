@@ -33,7 +33,7 @@
 ##### attack! -- attacks people around you
 ##### unattack! -- stops attack
 ##### Song! -- plays the set song
-##### hide! -- stand buys a mask (not working rn)
+##### hide! -- stand buys a mask
 ### 
 ## /e commands:
 ##### /e bring [player] -- brings a player it dont work tho
