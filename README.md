@@ -36,6 +36,8 @@
 ##### hide! -- stand buys a mask
 ##### heal! -- if stand is under 50 hp it buys pizza and eats it
 ##### unjail! -- if stand is jailed then it unjails itself
+##### stomp! -- auto stomps anyone near you
+##### unstomp! -- stops stomp!
 ### 
 ## /e commands:
 ##### /e bring [player] -- brings a player (not working)
