@@ -1,4 +1,5 @@
 # Capy stand commands
+### if a command is broken / not working correctly dm me punchy#0411 or make sure your in an updated server
 #### if a command has a capital then make sure when you type it in that letter is capital
 ##### summon! -- summons the stand
 ##### ora! -- attacks infront of you
@@ -26,15 +27,14 @@
 ##### unbarrage!
 ##### crew! -- joins the set crew
 ##### uncrew! -- leaves the crew
-##### sky! -- when stand owner is knocked brings into the sky
 ##### jail! -- when stand owner is knocked brings to admin jail
-##### void! -- sends stand to the void
+##### void! -- when stand owner is knocked brings you into the void
 ##### requiem! -- stand goes god mode
 ##### attack! -- attacks people around you
 ##### unattack! -- stops attack
 ##### Song! -- plays the set song
-##### hide! -- stand buys a mask
-
+##### hide! -- stand buys a mask (not working rn)
+##### grab! -- grabs stand owner when knocked down (works best with requiem!)
 
 #### /e commands:
 ##### /e bring [player] -- brings a player it dont work tho
