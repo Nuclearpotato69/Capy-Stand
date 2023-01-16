@@ -36,7 +36,7 @@
 ##### hide! -- stand buys a mask
 ### 
 ## /e commands:
-##### /e bring [player] -- brings a player it dont work tho
+##### /e bring [player] -- brings a player (not working)
 ##### /e msg -- says the set msg
 ##### /e noface -- removes face
 ##### /e stopaudio -- stops the song playing
