@@ -34,7 +34,6 @@
 ##### unattack! -- stops attack
 ##### Song! -- plays the set song
 ##### hide! -- stand buys a mask (not working rn)
-##### grab! -- grabs stand owner when knocked down (works best with requiem!)
 ### 
 ## /e commands:
 ##### /e bring [player] -- brings a player it dont work tho
