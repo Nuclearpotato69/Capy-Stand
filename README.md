@@ -41,6 +41,7 @@
 ##### unstomp! -- stops stomp!
 ##### !bring [player] -- brings the selected player
 ##### !attack [player] -- attackes the selcted player
+##### callall! -- being worked on
 ### 
 ## /e commands:
 
