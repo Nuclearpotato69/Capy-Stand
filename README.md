@@ -9,6 +9,7 @@
 ##### left!-- sets position
 ##### right! -- sets position
 ##### back! -- sets position
+##### under! -- sets position
 ##### Light! -- light click punch
 ##### Heavy! -- hold click punch
 ##### vanish! -- makes the alt disapear
