@@ -40,7 +40,8 @@
 ##### stomp! -- auto stomps anyone near you
 ##### unstomp! -- stops stomp!
 ##### !bring [player] -- brings the selected player
-##### !attack [player] -- attackes the selcted player
+##### !attack [player] -- attacks the selcted player
+##### !kill [player] -- attacks and stomps the selcted player
 ##### callall! -- calls everyone in the server (only calls each person once unless you do the cmd again)
 ### 
 ## /e commands:
