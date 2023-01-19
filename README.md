@@ -41,7 +41,7 @@
 ##### unstomp! -- stops stomp!
 ##### !bring [player] -- brings the selected player
 ##### !attack [player] -- attackes the selcted player
-##### callall! -- being worked on
+##### callall! -- calls everyone in the server (only calls each person once unless you do the cmd again)
 ### 
 ## /e commands:
 
