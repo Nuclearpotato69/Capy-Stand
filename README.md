@@ -23,7 +23,7 @@
 ##### rejoin! -- rejoins the stand
 ##### reset! -- resets the stand
 ##### dropcash! -- drops 10k once
-##### evolve! -- idk what this does
+##### evolve! -- grows the stand into a titan (has to be really big first)
 ##### barrage! -- attacks infront of you and in a radius
 ##### unbarrage!
 ##### crew! -- joins the set crew
