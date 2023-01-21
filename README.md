@@ -42,6 +42,7 @@
 ##### !bring [player] -- brings the selected player
 ##### !attack [player] -- attacks the selcted player
 ##### !kill [player] -- attacks and stomps the selcted player
+##### !vault [player] -- puts the selcted player inside the vault inside bank
 ##### callall! -- calls everyone in the server (only calls each person once unless you do the cmd again)
 ### 
 ## /e commands:
