@@ -32,6 +32,8 @@
 ##### void! -- when stand owner is knocked brings you into the void
 ##### requiem! -- stand goes god mode
 ##### attack! -- attacks people around you
+##### knife! -- buys a knife and knifes people arround you
+##### unknife! -- stops knife
 ##### unattack! -- stops attack
 ##### Song! -- plays the set song
 ##### hide! -- stand buys a mask
