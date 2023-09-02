@@ -1,5 +1,5 @@
 # Capy stand commands
-### if a command is broken / not working correctly make a ticket I'm my server or make sure your in an updated server
+### i no longer matain this dont dm me or ask about it
 #### if a command has a capital then make sure when you type it in that letter is capital
 ##### summon! -- summons the stand
 ##### ora! -- attacks infront of you
